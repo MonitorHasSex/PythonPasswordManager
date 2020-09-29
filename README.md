@@ -6,6 +6,7 @@ The (Basic) idea is to make a password manager that has you set a master passwor
 Simple. In Windows, make sure you have Python installed. Then cd into the path you want to use. For example:
 
 ``cd C:\Users\User\Desktop\New folder``
+
 ``PPm.py``
 
 Then type in PPm.py and it should work.
