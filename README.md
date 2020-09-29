@@ -9,7 +9,7 @@ Simple. In Windows, make sure you have Python installed. Then cd into the path y
 
 ``PPm.py``
 
-Then type in PPm.py and it should work.
+Then it should work.
 
 # Disclaimer 
 If i ever make this public and you want to use it, this is just a command line password manager that im trying to make (might make a terminal gui for it idk). Dont expect it to be the best or work that well (mainly because im a bit new to Python lmao).
