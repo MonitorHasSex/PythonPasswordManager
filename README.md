@@ -18,6 +18,8 @@ If i ever make this public and you want to use it, this is just a command line p
 
 ## What you need in order to run this (at the moment)
 Latest version of Python:https://www.python.org/downloads/ (make sure you select this option when installing)
+
 ![python install option](https://cdn.discordapp.com/attachments/763851850562666506/763942128954638387/unknown.png)
+
 Look at "How do you run it?" for everything you need.
 (Ill upload the .py soon i promise lol)
